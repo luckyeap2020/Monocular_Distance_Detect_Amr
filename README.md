@@ -9,9 +9,9 @@ Copied & modified from  https://github.com/404nofound/Monocular_Distance_Detect
 ```
 pip install -r requirements.txt
 ```
-If can't work,try:
+If can't work, try:
 ```
-pip install -r myrequirement.txt
+pip install -r my_env.txt
 ```
 
 ```
