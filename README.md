@@ -14,8 +14,8 @@ If can't work, try:
 pip install -r my_env.txt
 ```
 
-```
 # Run
+```
 python estimate_distance.py --source YOUR_PATH\data\images\demo.mp4 --view-img
 ```
 
